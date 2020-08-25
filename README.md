@@ -6,6 +6,7 @@ this page contains the associated data release of posterior samples generated
 using the [bilby](https://lscsoft.docs.ligo.org/bilby/) python package presented
 in the above publication. We also release the reweighted
 [LALInference](https://arxiv.org/pdf/1409.7215.pdf) samples for reproducibility.
+
 These webpages were made using the
 [pesummary](https://lscsoft.docs.ligo.org/pesummary/) python package. All command
 lines that were used to generate the webpages can be found on the
