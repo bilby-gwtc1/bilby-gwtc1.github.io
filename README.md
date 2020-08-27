@@ -6,7 +6,9 @@ this page contains the associated data release of posterior samples generated
 using the [bilby](https://lscsoft.docs.ligo.org/bilby/) python package presented
 in the above publication. We also release versions of the
 [original LVC LALInference samples](https://dcc.ligo.org/LIGO-P1800370/public)
-reweighted by the bilby default priors for reproducibility.
+reweighted by the bilby default priors for reproducibility. Strain data for
+each event can be downloaded from
+[GWOSC](https://www.gw-openscience.org/eventapi/html/GWTC-1-confident/).
 
 These webpages were made using the
 [pesummary](https://lscsoft.docs.ligo.org/pesummary/) python package. All command
