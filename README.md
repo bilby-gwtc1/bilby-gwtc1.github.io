@@ -1,7 +1,7 @@
 ## Welcome to the public data release for Bilby's reanalysis of GWTC-1
 
 As an accompaniment to the
-[reanalysis of the first LIGO-Virgo gravitational-wave transient catalogue paper with Bilby](https://arxiv.org/pdf/2006.00714.pdf),
+[reanalysis of the first LIGO-Virgo gravitational-wave transient catalogue paper with Bilby](https://arxiv.org/abs/2006.00714),
 this page contains the associated data release of posterior samples generated
 using the [bilby](https://lscsoft.docs.ligo.org/bilby/) python package presented
 in the above publication. We also release the reweighted
