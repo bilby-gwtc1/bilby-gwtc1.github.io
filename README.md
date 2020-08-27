@@ -1,11 +1,12 @@
-## Welcome to the public data release for Bilby's reanalysis of GWTC-1
+## Welcome to the public webpages for Bilby's reanalysis of GWTC-1
 
 As an accompaniment to the
 [reanalysis of the first LIGO-Virgo gravitational-wave transient catalogue paper with Bilby](https://arxiv.org/abs/2006.00714),
 this page contains the associated data release of posterior samples generated
 using the [bilby](https://lscsoft.docs.ligo.org/bilby/) python package presented
-in the above publication. We also release the reweighted
-[LALInference](https://arxiv.org/pdf/1409.7215.pdf) samples for reproducibility.
+in the above publication. We also release versions of the
+[original LVC LALInference samples](https://dcc.ligo.org/LIGO-P1800370/public)
+reweighted by the bilby default priors for reproducibility.
 
 These webpages were made using the
 [pesummary](https://lscsoft.docs.ligo.org/pesummary/) python package. All command
@@ -16,16 +17,9 @@ can be downloaded from the 'Downloads' tab.
 
 ### Data Release
 
-* [GW150914](https://bilby-gwtc1.github.io/GW150914/html/Downloads.html)
-* [GW151012](https://bilby-gwtc1.github.io/GW151012/html/Downloads.html)
-* [GW151226](https://bilby-gwtc1.github.io/GW151226/html/Downloads.html)
-* [GW170104](https://bilby-gwtc1.github.io/GW170104/html/Downloads.html)
-* [GW170608](https://bilby-gwtc1.github.io/GW170608/html/Downloads.html)
-* [GW170729](https://bilby-gwtc1.github.io/GW170729/html/Downloads.html)
-* [GW170809](https://bilby-gwtc1.github.io/GW170809/html/Downloads.html)
-* [GW170814](https://bilby-gwtc1.github.io/GW170814/html/Downloads.html)
-* [GW170818](https://bilby-gwtc1.github.io/GW170818/html/Downloads.html)
-* [GW170823](https://bilby-gwtc1.github.io/GW170823/html/Downloads.html)
+The posterior samples generated using the bilby python package can be downloaded
+though the LIGO-Virgo Document Control Center (DCC):
+[https://dcc.ligo.org/LIGO-P2000193/public](https://dcc.ligo.org/LIGO-P2000193/public)
 
 ### Summarypages
 
